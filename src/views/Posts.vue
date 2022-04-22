@@ -30,7 +30,7 @@
         </li>
       </ul>
     </div>
-    <div v-else>Oh no!!! We have no posts</div>
+    <div v-else>We have no posts</div>
   </div>
 </template>
 
